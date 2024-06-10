@@ -5,9 +5,10 @@ permalink: /
 subtitle: 4th year astrophysics Ph.D. student 
 
 profile:
+  
   align: right
   image: me.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: 
 
 news: true  # includes a list of news items
